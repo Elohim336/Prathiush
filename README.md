@@ -1,1 +1,1 @@
-# Prathiush
+Python Basics for Data Science
